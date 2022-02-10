@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "firebase": "^7.8.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12.0",
     "react-admin": "^3.2.2",
     "react-dom": "^16.12.0",
